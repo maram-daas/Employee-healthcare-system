@@ -13,7 +13,7 @@ int main() {
     printf("|                                                 |\n");
     printf("|        +++ Occupational_Health_System +++       |\n");
     printf("|                                                 |\n");
-    printf("|      Made by maramDaas and Khadir_Hibatallah    |\n");
+    printf("|                Made by Maram Daas               |\n");
     printf("|                                                 |\n");
     printf("|             ~~ Welcome dear user ~~             |\n");
     printf("|                                                 |\n");
