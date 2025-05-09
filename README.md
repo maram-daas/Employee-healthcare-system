@@ -7,10 +7,10 @@ A cross-platform C based application for managing medical consultations and empl
 - Appointment queue system for daily and next-day consultations
 - Employee record management using a linked list (add, update, delete, find)
 - Automatic scheduling of periodic and return-to-work medical consultations
-- saving/reading employees/consultations data from files for storage reasons. 
-- interactive menu interface
+- Saving/reading employees/consultations data from files for storage reasons. 
+- Interactive menu interface
 - Dynamic memory allocation and custom queue implementation.
-- cross-platform
+- Works on cross-platform
 
 ## What we used
 
@@ -34,7 +34,7 @@ A cross-platform C based application for managing medical consultations and empl
 
 ## Note
 
-The file structure is essential for the program to function properly. Please maintain the exact formatting. If you want to leave a field empty (in the file), use ;; in its place to preserve the correct structure.
+The file structure is essential for the program to function properly so Please maintain the exact formatting, If you want to leave a field empty (in the file), use ;; in its place to preserve the correct structure.
 
 ## License
 
