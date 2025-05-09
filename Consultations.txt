@@ -1,0 +1,5 @@
+89012345;Imad Rahal;8h30;Periodic
+12345679;Asma Benouali;9h45;Pre-employement
+12345678;Mohammed Abed;10h30;Return-to-Work
+23456789;Rym Benali;11h15;Periodic
+45678901;Zahra Rayhane;12h;Return-to-Work

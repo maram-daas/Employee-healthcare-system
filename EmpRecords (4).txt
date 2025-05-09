@@ -1,0 +1,9 @@
+12345678;Mohammed Abed;3;20/02/2025;13/03/2025;Pre-employment,Periodic,Work-accident
+23456789;Rym Benali;6;12/03/2024;;Periodic,Periodic,Work-accident,Return-to-Work,periodic
+34567890;Ahmad Mansour;2;20/02/2025;;Pre-employment,Periodic
+45678901;Zahra Rayhane;7;25/02/2025;13/03/2025;Work-accident,Return-to-Work,periodic,periodic,Occupational-Disease
+56789012;Youcef Rahal;3;10/06/2024;;Pre-employment,periodic,periodic
+67890123;Mohemed Ali;2;04/05/2024;;Pre-employment,periodic
+78901234;Radhia Bouaziz;4;04/03/2025;19/03/2025;Pre-employment,periodic,periodic,Occupational-Disease
+89012345;Imad Rahal;3;11/03/2024;;Pre-employment,periodic,periodic
+90123456;Sami Mimoun;5;12/12/2024;;Pre-employment,periodic,periodic,periodic,periodic,
