@@ -22,8 +22,10 @@ A cross-platform C based application for managing medical consultations and empl
 
 - `main.c`: menu interface
 - `health_system_functions.h/c`: Helper functions for appointments and employees (header+source file)
-- `EmpRecords.txt`: Employee data file to (you can add employees but make sure to keep the same structure)
-- `Consultations.txt`: Appointment queue data file (you can add consultations but make sure to keep the same structure)
+- `EmpRecords.txt`: Employee data file
+- `Consultations.txt`: Appointment queue data file
+
+  
   To ensure proper testing, please use the provided files or create your own using the exact same format, if you want to leave a field empty (in the file), use ;; in its place to preserve the correct structure.
 
 ## Authors
